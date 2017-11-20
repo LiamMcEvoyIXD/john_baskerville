@@ -7,6 +7,8 @@ John Baskerville
 
 - [John Baskerville List](https://liammcevoyixd.github.io/john_baskerville/baskerville2.html)
 
+- [Baskerville 5](https://liammcevoyixd.github.io/john_baskerville/baskerville5.html)
+
 History of Type
 ---------------
 
