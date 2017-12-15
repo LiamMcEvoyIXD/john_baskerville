@@ -16,4 +16,8 @@ History of Type
 
 - [History of Type](https://liammcevoyixd.github.io/john_baskerville/history_of_type1.html)
 
+- [History of Type 2](https://liammcevoyixd.github.io/john_baskerville/history_of_type2.html)
 
+- [History of Type 3](https://liammcevoyixd.github.io/john_baskerville/history_of_type3.html)
+
+- [History of Type 4](https://liammcevoyixd.github.io/john_baskerville/history_of_type4.html)
