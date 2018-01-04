@@ -11,6 +11,12 @@ John Baskerville
 
 - [Baskerville 5](https://liammcevoyixd.github.io/john_baskerville/baskerville5.html)
 
+- [Baskerville 6](https://liammcevoyixd.github.io/john_baskerville/baskerville6.html)
+
+- [Baskerville 7](https://liammcevoyixd.github.io/john_baskerville/baskerville7.html)
+
+- [Baskerville 8](https://liammcevoyixd.github.io/john_baskerville/baskerville8.html)
+
 History of Type
 ---------------
 
