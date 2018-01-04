@@ -5,7 +5,9 @@ John Baskerville
 ----------------
 - [Baskerville 1](https://liammcevoyixd.github.io/john_baskerville/baskerville1.html)
 
-- [John Baskerville List](https://liammcevoyixd.github.io/john_baskerville/baskerville2.html)
+- [Baskerville 2](https://liammcevoyixd.github.io/john_baskerville/baskerville2.html)
+
+- [Baskerville 3](https://liammcevoyixd.github.io/john_baskerville/baskerville3.html)
 
 - [Baskerville 4](https://liammcevoyixd.github.io/john_baskerville/baskerville4.html)
 
